@@ -1,0 +1,11 @@
+{
+  "name": "novacart",
+  "version": "1.0.0",
+  "description": "A simple e-commerce website using vue.js and express.js at it's core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
